@@ -4,8 +4,7 @@
     "description": "Simple customizable component to create side menu",
     "main": "build/index.js",
     "scripts": {
-        "build": "build.bat",
-        "prepublish": "build.bat"
+        "build": "build.sh"
     },
     "repository": {
         "type": "git",
