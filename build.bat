@@ -1,2 +1,2 @@
-babel index.js > build/index.js
-babel styles.js > build/styles.js
+babel index.js --out-dir build
+babel styles.js --out-dir build
